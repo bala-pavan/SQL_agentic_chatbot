@@ -1,0 +1,51 @@
+dress_id,brand,dress_type,size,color,material,unit_price,discount_percentage,available_stock
+1,H&M,Party,S,Purple,Velvet,46.08,12,135
+2,Louis Vuitton,Office,M,Brown,Cotton,117.03,19,85
+3,Balenciaga,Office,XL,Brown,Polyester,58.1,24,174
+4,Louis Vuitton,Summer,XL,Blue,Satin,96.42,12,104
+5,Prada,Summer,XS,Pink,Denim,119.59,11,48
+6,Louis Vuitton,Evening,S,Brown,Leather,159.32,8,149
+7,Prada,Office,S,Yellow,Satin,34.04,6,58
+8,Versace,Traditional,XS,Brown,Silk,100.32,5,66
+9,Zara,Casual,XXL,Gold,Denim,153.84,14,193
+10,Dolce & Gabbana,Party,XL,Red,Chiffon,120.97,19,119
+11,Zara,Wedding,XXL,Brown,Satin,99.6,17,117
+12,Louis Vuitton,Summer,M,Black,Polyester,150.84,5,79
+13,Armani,Casual,S,Blue,Denim,194.0,20,165
+14,Louis Vuitton,Casual,L,Red,Wool,40.22,26,72
+15,Dolce & Gabbana,Evening,XL,Blue,Leather,76.51,11,51
+16,H&M,Sport,M,Yellow,Linen,57.73,5,163
+17,Armani,Evening,XXL,Blue,Velvet,120.5,6,98
+18,Armani,Traditional,XL,Black,Denim,49.47,3,29
+19,Prada,Party,XS,Brown,Silk,168.86,7,115
+20,Versace,Party,XS,Red,Linen,64.2,13,86
+21,Gucci,Casual,S,White,Chiffon,96.42,15,164
+22,Dolce & Gabbana,Office,L,Black,Polyester,147.92,21,164
+23,Versace,Casual,S,Brown,Silk,195.07,14,154
+24,Zara,Evening,S,Blue,Silk,130.28,5,137
+25,Armani,Summer,L,Black,Cotton,83.02,13,134
+26,Gucci,Casual,XL,Yellow,Silk,50.83,9,60
+27,Dolce & Gabbana,Formal,XL,Red,Velvet,177.8,13,171
+28,Louis Vuitton,Casual,XL,Purple,Satin,160.81,21,60
+29,Gucci,Formal,XXL,Brown,Cotton,159.73,17,168
+30,Prada,Traditional,XL,Black,Cotton,196.94,1,180
+31,Balenciaga,Summer,L,Gold,Linen,37.75,12,35
+32,Louis Vuitton,Sport,L,Green,Wool,185.49,30,144
+33,Prada,Wedding,XXL,Blue,Satin,143.54,29,167
+34,Dior,Casual,XL,Gold,Linen,46.98,29,32
+35,Balenciaga,Winter,XS,Yellow,Velvet,51.98,10,147
+36,Armani,Summer,L,Black,Leather,32.15,6,198
+37,Dior,Sport,M,Green,Velvet,180.19,30,174
+38,Prada,Formal,XXL,Red,Polyester,192.88,2,137
+39,Prada,Office,XXL,Gold,Cotton,182.0,4,96
+40,Dolce & Gabbana,Party,M,Purple,Polyester,38.87,20,195
+41,Dior,Party,XL,Blue,Denim,163.77,8,125
+42,Louis Vuitton,Traditional,XL,Pink,Chiffon,64.89,12,127
+43,Dior,Summer,M,Green,Linen,54.52,20,54
+44,H&M,Wedding,XS,Gold,Wool,154.42,24,120
+45,Dior,Office,XXL,White,Leather,133.56,14,153
+46,Balenciaga,Wedding,XXL,Pink,Satin,71.55,29,154
+47,Louis Vuitton,Traditional,L,Black,Satin,118.06,28,164
+48,Louis Vuitton,Casual,L,Black,Linen,139.88,7,175
+49,Versace,Wedding,L,Red,Chiffon,47.31,20,34
+50,Dior,Office,M,Purple,Silk,145.6,27,132
